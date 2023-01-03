@@ -18,7 +18,7 @@ Type in hostname -I to get the ipaddress for your RaspberryPi. I used PuTTY for 
 **Install dependecies with:**
 
 sudo apt update  
-sudo apt-get install python3-pip python3-pil python3-numpy git  
+sudo apt-get install python3-pip python3-pil git  
 pip3 install RPi.GPIO spidev  
 sudo pip3 install pyowm==2.10.0  
 
