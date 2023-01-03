@@ -4,7 +4,7 @@ RaspberryPi project that uses openweather api to display weather to e-ink displa
 ![](IMG_0616.jpg)
 
 **Required Hardware:**  
-RaspberryPi (I used model 3B with Raspbian OS Lite but other models work)
+RaspberryPi (I used model 3B with Raspbian OS Lite but other models work)  
 Waveshare 2.7inch e-ink display or something like Inky Phat
 
 **Set Up:**  
