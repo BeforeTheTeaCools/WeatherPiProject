@@ -13,7 +13,7 @@ import pyowm
 if sys.version_info[0] < 3:
     raise Exception("Must be using Python 3")
 #put api key below
-owm = pyowm.OWM('13e2f5711d8c155ca054a8333d0dccd0')
+owm = pyowm.OWM('ENTER API KEY') # I have removed mine in this upload
 
 city_id = 4702732 # Katy, Texas, US
 city_state = 'Katy, Tx'
