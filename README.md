@@ -1,7 +1,7 @@
 # WeatherPiProject
 RaspberryPi project that uses openweather api to display weather to e-ink display
 
-![](IMG_0616.jpg)
+![](wpipic.jpg)
 
 **Required Hardware:**  
 RaspberryPi (I used model 3B with Raspbian OS Lite but other models work)  
