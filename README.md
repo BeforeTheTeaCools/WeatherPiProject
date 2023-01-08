@@ -1,5 +1,7 @@
 # WeatherPiProject
-RaspberryPi project that uses openweather api to display weather to e-ink display
+RaspberryPi project that uses openweather api to display weather to e-ink display  
+It displays location, current temperature, min/max temperature, current weather status along with icon that updates correspondingly.  
+I will probably update it with more features later.
 
 ![](wpipic.jpg)
 
