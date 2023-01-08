@@ -11,7 +11,7 @@ Waveshare 2.7inch e-ink display or something like Inky Phat
 I just manually connected the pi to a monitor temporarily before I switched over to SSH.  
 If you prefer to set up headless, here is a link: https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html  
 
-Make sure you enable SPI and I2PC. Just type sudo raspi-config in the terminal and navigate to interface and turn them on  
+Make sure you enable SPI and I2C. Just type sudo raspi-config in the terminal and navigate to interface and turn them on  
 
 Type in hostname -I to get the ipaddress for your RaspberryPi. I used PuTTY for SSH so I simply ran PuTTY, and saved a profile with the ipaddress and loaded it up.
 
