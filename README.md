@@ -17,7 +17,7 @@ Make sure you enable SPI and I2C. Just type sudo raspi-config in the terminal an
 
 Type in hostname -I to get the ipaddress for your RaspberryPi. I used PuTTY for SSH so I simply ran PuTTY, and saved a profile with the ipaddress and loaded it up.
 
-**Install dependecies with:**
+**Install dependencies with:**
 
 sudo apt update  
 sudo apt-get install python3-pip python3-pil git  
